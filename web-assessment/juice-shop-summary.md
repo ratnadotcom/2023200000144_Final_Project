@@ -66,5 +66,5 @@ The vulnerabilities identified in the Juice Shop application represent critical 
 
 ## Screenshots
 
-- `studentid_juiceshop_sqli_01.jpg` — SQL injection login bypass
-- `studentid_juiceshop_xss_01.jpg` — XSS payload execution
+-  SQL injection login bypass
+-  XSS payload execution
