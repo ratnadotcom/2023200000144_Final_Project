@@ -65,5 +65,5 @@ The presence of unpatched SMBv1 with MS17-010 allows an unauthenticated attacker
 
 ## Screenshots
 
-- `studentid_recon_nmap_01.jpg` — Nmap scan output showing open ports and services
-- `studentid_recon_nmap_02.jpg` — Vulnerability scan confirming MS17-010 on the target
+- Nmap scan output showing open ports and services
+- Vulnerability scan confirming MS17-010 on the target
