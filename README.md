@@ -41,7 +41,7 @@ All testing activities were performed exclusively within the assigned TryHackMe 
 │
 ├── README.md                          
 │
-├── reconnaissance/
+├── recon/
 │   └── reconnaissance-summary.md    
 │
 ├── web-assessment/
